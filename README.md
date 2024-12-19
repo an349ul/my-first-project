@@ -1,2 +1,2 @@
 # my-first-project
-練習用プロジェクト
+ここにはREADME.mdファイルの内容が記載されている。
